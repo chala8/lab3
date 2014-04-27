@@ -1,1 +1,2 @@
-cout<<"hello pikachu"
+cout<<"hello pikachu"<<endl;
+cout<<"chao pikachu"<<endl;
